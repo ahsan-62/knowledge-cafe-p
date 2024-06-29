@@ -1,0 +1,53 @@
+[
+    {
+      "id": "1",
+      "cover": "https://img.freepik.com/free-photo/top-view-books-arrangement_23-2148888507.jpg",
+      "title": "How to get your first job as a self-taught programmer",
+      "author": "Jane Doe",
+      "author_img": "https://img.freepik.com/free-photo/young-female-student-wearing-glasses_23-2148809371.jpg",
+      "posted_date": "2024-06-20",
+      "reading_time": 5,
+      "hashtags": ["#fiction", "#mystery", "#adventure"]
+    },
+    {
+      "id": "2",
+      "cover": "https://img.freepik.com/free-photo/top-view-books-arrangement_23-2148888507.jpg",
+      "title": "How to get your first job as a self-taught programmer",
+      "author": "John Smith",
+      "author_img": "https://img.freepik.com/free-photo/young-man-standing-street-wearing-suit_23-2148783717.jpg",
+      "posted_date": "2024-06-18",
+      "reading_time": 7,
+      "hashtags": ["#history", "#nonfiction", "#biography"]
+    },
+    {
+      "id": "3",
+      "cover": "https://img.freepik.com/free-photo/top-view-books-arrangement_23-2148888507.jpg",
+      "title": "How to get your first job as a self-taught programmer",
+      "author": "Emily White",
+      "author_img": "https://img.freepik.com/free-photo/young-girl-standing-outdoors_23-2148782906.jpg",
+      "posted_date": "2024-06-15",
+      "reading_time": 6,
+      "hashtags": ["#romance", "#drama", "#literature"]
+    },
+    {
+      "id": "4",
+      "cover": "https://img.freepik.com/free-photo/top-view-books-arrangement_23-2148888507.jpg",
+      "title": "How to get your first job as a self-taught programmer",
+      "author": "Robert Brown",
+      "author_img": "https://img.freepik.com/free-photo/portrait-smiling-young-man_23-2148783405.jpg",
+      "posted_date": "2024-06-10",
+      "reading_time": 8,
+      "hashtags": ["#sciencefiction", "#adventure", "#space"]
+    },
+    {
+      "id": "5",
+      "cover": "https://img.freepik.com/free-photo/top-view-books-arrangement_23-2148888507.jpg",
+      "title": "How to get your first job as a self-taught programmer",
+      "author": "Laura Green",
+      "author_img": "https://img.freepik.com/free-photo/portrait-smiling-young-woman_23-2148783765.jpg",
+      "posted_date": "2024-06-05",
+      "reading_time": 4,
+      "hashtags": ["#poetry", "#art", "#inspiration"]
+    }
+  ]
+  
